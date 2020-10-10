@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title>Phyton</title>
-</head>
 <body>
 	<center>
 		<img src="efpem.png">
